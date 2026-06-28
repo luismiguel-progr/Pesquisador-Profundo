@@ -20,12 +20,12 @@ No Linux, o script está configurado com suporte nativo a Shebang, permitindo qu
     Forneça permissões de execução para o arquivo:
     Bash
 
-    chmod +x buscador.py
+    chmod +x Pesquisador_Profundo.py
 
     Execute o programa digitando apenas:
     Bash
 
-    ./buscador.py
+    ./Pesquisador_Profundo.py
 
 🪟 2. Instruções para Windows (CMD ou PowerShell)
 
